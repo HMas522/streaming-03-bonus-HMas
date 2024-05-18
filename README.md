@@ -87,7 +87,6 @@ python util_aboutrabbit.py
 pip list
 ```
 
-![verifying setup](./images/verifying.png)
 
 ## Task 6. Execute the Producer/Sender
 
