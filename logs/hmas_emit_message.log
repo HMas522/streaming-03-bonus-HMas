@@ -1,0 +1,17 @@
+2024-05-18 18:26:58,556.hmas_emit_message.INFO ==================================================
+2024-05-18 18:26:58,556.hmas_emit_message.INFO Today is 2024-05-18 at 06:26 PM
+2024-05-18 18:26:58,556.hmas_emit_message.INFO Running on: nt Windows 10
+2024-05-18 18:26:58,557.hmas_emit_message.INFO Python version:  3.10.11
+2024-05-18 18:26:58,557.hmas_emit_message.INFO Python path: C:\Users\Hayley\Documents\streaming-03-bonus-HMas\.venv
+2024-05-18 18:26:58,557.hmas_emit_message.INFO Working dir: C:\Users\Hayley\Documents\streaming-03-bonus-HMas
+2024-05-18 18:26:58,557.hmas_emit_message.INFO ==================================================
+2024-05-18 18:26:58,573.hmas_emit_message.INFO  [x] Sent Id,isSelf,Price,Date
+2024-05-18 18:27:00,619.hmas_emit_message.INFO  [x] Sent 51169,1,1.943,2022-01-01 11:45:53
+2024-05-18 18:27:01,822.hmas_emit_message.INFO  [x] Sent 44566,1,1.725,2022-01-02 11:15:08
+2024-05-18 18:27:04,264.hmas_emit_message.INFO  [x] Sent 44566,0,1.775,2022-01-02 11:15:08
+2024-05-18 18:27:06,052.hmas_emit_message.INFO  [x] Sent 20026,1,1.729,2022-01-02 11:27:01
+2024-05-18 18:27:08,913.hmas_emit_message.INFO  [x] Sent 12494,0,1.559,2022-01-02 12:07:25
+2024-05-18 18:27:10,122.hmas_emit_message.INFO  [x] Sent 12494,1,1.559,2022-01-02 12:07:25
+2024-05-18 18:27:12,800.hmas_emit_message.INFO  [x] Sent 37593,0,1.789,2022-01-02 12:36:25
+2024-05-18 18:27:14,702.hmas_emit_message.INFO  [x] Sent 37593,1,1.789,2022-01-02 12:36:25
+2024-05-18 18:27:17,538.hmas_emit_message.INFO  [x] Sent 50047,0,1.879,2022-01-02 14:20:37

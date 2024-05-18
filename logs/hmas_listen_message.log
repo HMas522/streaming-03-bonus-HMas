@@ -1,0 +1,18 @@
+2024-05-18 18:27:25,230.hmas_listen_message.INFO ==================================================
+2024-05-18 18:27:25,230.hmas_listen_message.INFO Today is 2024-05-18 at 06:27 PM
+2024-05-18 18:27:25,230.hmas_listen_message.INFO Running on: nt Windows 10
+2024-05-18 18:27:25,230.hmas_listen_message.INFO Python version:  3.10.11
+2024-05-18 18:27:25,231.hmas_listen_message.INFO Python path: C:\Users\Hayley\Documents\streaming-03-bonus-HMas\.venv
+2024-05-18 18:27:25,231.hmas_listen_message.INFO Working dir: C:\Users\Hayley\Documents\streaming-03-bonus-HMas
+2024-05-18 18:27:25,231.hmas_listen_message.INFO ==================================================
+2024-05-18 18:27:25,250.hmas_listen_message.INFO  [*] Waiting for messages. To exit press CTRL+C
+2024-05-18 18:27:25,250.hmas_listen_message.INFO Received: Id,isSelf,Price,Date
+2024-05-18 18:27:25,251.hmas_listen_message.INFO Received: 51169,1,1.943,2022-01-01 11:45:53
+2024-05-18 18:27:25,252.hmas_listen_message.INFO Received: 44566,1,1.725,2022-01-02 11:15:08
+2024-05-18 18:27:25,253.hmas_listen_message.INFO Received: 44566,0,1.775,2022-01-02 11:15:08
+2024-05-18 18:27:25,254.hmas_listen_message.INFO Received: 20026,1,1.729,2022-01-02 11:27:01
+2024-05-18 18:27:25,255.hmas_listen_message.INFO Received: 12494,0,1.559,2022-01-02 12:07:25
+2024-05-18 18:27:25,256.hmas_listen_message.INFO Received: 12494,1,1.559,2022-01-02 12:07:25
+2024-05-18 18:27:25,257.hmas_listen_message.INFO Received: 37593,0,1.789,2022-01-02 12:36:25
+2024-05-18 18:27:25,258.hmas_listen_message.INFO Received: 37593,1,1.789,2022-01-02 12:36:25
+2024-05-18 18:27:25,259.hmas_listen_message.INFO Received: 50047,0,1.879,2022-01-02 14:20:37
