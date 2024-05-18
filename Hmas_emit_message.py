@@ -68,8 +68,8 @@ def send_message(host: str, queue_name: str, message: str):
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
     host = "localhost"
-    queue_name = "Hourly_Gasoline_Prices"
-    csv_file_path = "C:\Users\Hayley\Documents\streaming-03-bonus-HMas\\Hourly_Gasoline_Prices.csv"
+    queue_name = "hourly_gasoline_prices"
+    csv_file_path = "C:\\Users\\Hayley\\Documents\\streaming-03-bonus-HMas\\hourly_gasoline_prices.csv"
 
     try:
         # Open the CSV file and read data
